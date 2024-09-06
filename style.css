@@ -47,3 +47,15 @@ footer {
     background-color: #333;
     color: #fff;
 }
+
+footer a {
+    color: #fff;
+    margin: 0 10px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+footer a:hover {
+    color: #60caff;
+    /* Change color on hover */
+}
