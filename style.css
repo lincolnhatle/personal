@@ -59,3 +59,10 @@ footer a:hover {
     color: #60caff;
     /* Change color on hover */
 }
+
+.avatar {
+    vertical-align: middle;
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+  }
