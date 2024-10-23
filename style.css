@@ -62,7 +62,8 @@ footer a:hover {
 
 .avatar {
     vertical-align: middle;
-    width: 350px;
-    height: 350px;
+    width: 40%;
     border-radius: 50%;
+    /* border: 10px double #333; */
+    border: 10px double maroon;
   }
